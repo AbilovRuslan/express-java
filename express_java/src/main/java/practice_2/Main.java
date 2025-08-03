@@ -40,8 +40,6 @@ public class Main {
 
         Product product = new Product("Тостер", 200);
         product.setPrice(300);
-        double discount = 15;  // Скидка только тут
-        product.print(discount);
 
         Laptop laptop = new Laptop("Asus",2000);
         laptop.setBrand("Sony");
