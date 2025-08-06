@@ -19,12 +19,12 @@ public class Circle {
 
     //метод для площади
     double calculateArea(){
-        return 2 * Math.PI * radius;
+        return Math.PI * radius * radius;
     }
 
     //метод для длины окр
     double calculateCircumference(){
-        return Math.PI*radius*radius;
+        return 2 * Math.PI * radius;
     }
 
     //метод для печати

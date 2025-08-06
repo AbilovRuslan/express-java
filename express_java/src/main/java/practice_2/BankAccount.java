@@ -18,7 +18,7 @@ public class BankAccount {
 
     //сеттеры
     void setOwner(String owner){
-        this.balance = balance;
+        this.owner = owner;
     }
     //метод deposit(amount)
     public void deposit (double amount){

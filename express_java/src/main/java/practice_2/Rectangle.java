@@ -3,8 +3,8 @@ package practice_2;
 public class Rectangle {
 
     //поля
-    static double width;
-    static double height;
+    double width;
+    double height;
 
     //конструктор
 
