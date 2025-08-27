@@ -8,7 +8,7 @@ public class Menu {
     }
 
     public void showDescription() {
-        System.out.println(dish.getDescription());
+        System.out.println(dish.getTemperature());
 
     }
 }

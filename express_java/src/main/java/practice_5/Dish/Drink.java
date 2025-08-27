@@ -8,7 +8,7 @@ public class Drink implements Dish {
     }
 
     @Override
-    public int getDescription() {
+    public int getTemperature() {
         return volume;
     }
 }

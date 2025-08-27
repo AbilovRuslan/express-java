@@ -8,7 +8,7 @@ public class HotDish implements Dish {
     }
 
     @Override
-    public int getDescription() {
+    public int getTemperature() {
         return temperature;
     }
 }

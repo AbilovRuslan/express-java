@@ -7,7 +7,7 @@ public class BotanicalGarden {
         this.plant = plant;
     }
 
-    public void maingainPlant(){
+    public void maintainPlant(){
         plant.care();
     }
 
