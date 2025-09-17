@@ -19,8 +19,8 @@ public class IfElseTasks {
         double a = scanner.nextDouble();
         System.out.println("Введи второе число: ");
         double b = scanner.nextDouble();
-        if (a > b) System.out.println("Наибольшее число: " +a);
-        else if (b >a) System.out.println("Наибольшее число: " +b);
+        if (a > b) System.out.println("Наибольшее число: " + a);
+        else if (b > a) System.out.println("Наибольшее число: " + b);
         else System.out.println("Числа равны");
 
         // Вывод оценки по шкале 1–5
@@ -30,7 +30,7 @@ public class IfElseTasks {
         if (grade == 5) System.out.println("Отлично!");
         else if (grade == 4) System.out.println("Хорошо");
         else if (grade == 3) System.out.println("Удовлетворительно");
-        else if (grade == 2 ||  grade ==1) System.out.println("Неудовлетворительно");
+        else if (grade == 2 || grade == 1) System.out.println("Неудовлетворительно");
         else System.out.println("Некорректное значение");
 
         //Проверка на чётность
@@ -43,7 +43,7 @@ public class IfElseTasks {
         //Определение размера скидки по возрасту
         System.out.println("Введите возраст: ");
         int age = scanner.nextInt();
-        if(age < 18) System.out.println("Скидка 25%");
+        if (age < 18) System.out.println("Скидка 25%");
         else if (age >= 65) System.out.println("Скидка 30%");
         else System.out.println("Иди работай больше! Нет скидки");
 
