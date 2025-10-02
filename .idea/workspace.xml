@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add hw10">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice_10/PhoneUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice_10/PhoneUtilsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AbilovRuslan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AbilovRuslan/express-java&quot;,
+    &quot;accountId&quot;: &quot;f9e9aab1-a60a-4eb1-b0c9-166390147eab&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33SnZtAD45opsWDSUyIclBI6oqi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DebagTask1.executor": "Run",
+    "Application.DebagTask10.executor": "Run",
+    "Application.DebagTask2.executor": "Run",
+    "Application.DebagTask3.executor": "Run",
+    "Application.DebagTask4.executor": "Run",
+    "Application.DebagTask5.executor": "Run",
+    "Application.DebagTask6.executor": "Run",
+    "Application.DebagTask7.executor": "Run",
+    "Application.DebagTask8.executor": "Run",
+    "Application.DebagTask9.executor": "Run",
+    "Application.DebugTask2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.VolatileExample.executor": "Run",
+    "JUnit.ArrayUtilsSecondTest.executor": "Run",
+    "JUnit.ArrayUtilsSecondTest.testEmptyArray.executor": "Run",
+    "JUnit.ArrayUtilsSecondTest.testSingleElement.executor": "Run",
+    "JUnit.ArrayUtilsTest.executor": "Run",
+    "JUnit.EmailUtilsTest.executor": "Run",
+    "JUnit.MathUtilsTest.executor": "Run",
+    "JUnit.MathUtilsTest.testFactorialNagative.executor": "Run",
+    "JUnit.MyNumberUtilsTest.executor": "Run",
+    "JUnit.PhoneUtilsTest.executor": "Run",
+    "JUnit.StringUtilsTest.executor": "Run",
+    "JUnit.StringUtilsTest.testNullString.executor": "Run",
+    "JUnit.StringUtilsTest.testSentenceWithExtraSpaces.executor": "Run",
+    "JUnit.YearUtilsTest.executor": "Run",
+    "JUnit.YearUtilsTest.testLeapYears.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DebagTask10">
+    <configuration name="DebagTask10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask10" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebagTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask6" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebagTask7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask7" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebagTask8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask8" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebagTask9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask9" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DebagTask10" />
+        <item itemvalue="Application.DebagTask9" />
+        <item itemvalue="Application.DebagTask8" />
+        <item itemvalue="Application.DebagTask7" />
+        <item itemvalue="Application.DebagTask6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="" />
+      <created>1759319400037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759319400037</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add hw10">
+      <option name="closed" value="true" />
+      <created>1759325227103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759325227103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hw10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw10" />
+  </component>
+</project>
