@@ -14,25 +14,28 @@ class EmailUtilsTest {
 
     //Корректные email: "test@example.com", "user.name@domain.co", "a@b.cc" → true
     @ParameterizedTest
-    @ValueSource(strings = {"btest@example.com", "user.name@domain.co", "a@b.cc"})
+    @ValueSource(strings = {"test@example.com", "user.name@domain.co", "a@b.cc"})
     void testValidEmails(String email) {
         assertTrue(isValidEmail(email));
     }
 
     //Некорректные email: "bad@.com", "no-at-symbol", "@missing-user.com", "user@domain" → false
     @ParameterizedTest
-    @ValueSource(strings = {"bad@.com", "no-at-symbol", "@missing-user.com", "user@domain",""})
+    @ValueSource(strings = {"bad@.com", "no-at-symbol", "@missing-user.com", "user@domain"})
     void testInvalidEmail(String email) {
         assertFalse(isValidEmail(email));
     }
 
-    //Пустая строка: "" → false
+    //Пустая строка: ""
     @Test
     void testNullEmail(){
         assertFalse(isValidEmail(null));
     }
 
-
+    @Test
+    void testEmptyEmail() {
+        assertFalse(isValidEmail(""));
+    }
 }
 
 

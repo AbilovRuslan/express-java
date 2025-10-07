@@ -10,10 +10,25 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 class ArrayUtilsSecondTest {
     int findSecondMax(int[] numbers) {
-        return Arrays.stream(numbers).distinct().sorted().skip(numbers.length - 2).findFirst().orElseThrow();
+        if (numbers == null) {
+            throw new IllegalArgumentException("Array must not be null");
+        }
+
+        int[] distinctSorted = Arrays.stream(numbers)
+                .distinct()
+                .sorted()
+                .toArray();
+
+        if (distinctSorted.length < 2) {
+            throw new IllegalArgumentException("Array must contain at least two distinct elements");
+        }
+
+        return distinctSorted[distinctSorted.length - 2];
     }
 
-    //Обычные массивы
+
+
+        //Обычные массивы
     @Test
     void testNormalArray() {
         assertEquals(5, findSecondMax(new int[]{3, 5, 7, 2}));
@@ -22,7 +37,7 @@ class ArrayUtilsSecondTest {
     //Массив с одинаковыми числами: [4, 4, 4, 4] → Должно выбрасываться NoSuchElementException.
     @Test
     void testAllSameArray() {
-        assertThrows(NoSuchElementException.class, () -> findSecondMax(new int[]{4, 4, 4, 4}));
+        assertThrows(IllegalArgumentException.class, () -> findSecondMax(new int[]{4, 4, 4, 4}));
     }
 
     //Один элемент: [8] → Должно выбрасываться NoSuchElementException.

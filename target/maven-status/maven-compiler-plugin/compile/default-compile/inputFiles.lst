@@ -1,5 +1,6 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_2/Point.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task10.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/StudentGrad/InvalidGradeException.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/CollectionArray1.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Museum/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/IfElseTasks.java
@@ -12,9 +13,11 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Attraction/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task11.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Attraction/RollerCoaster.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/StudentGrad/StudentGrade.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Museum/Exhibit.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_11/DebagTask2.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_2/Main.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Entity/User.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task7.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Aquarium/Starfish.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Farm/Chicken.java
@@ -26,6 +29,7 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_7/Generic2.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/HashMapTask.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_7/Box.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Validator/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Dish/Dish.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/HashMapTask1.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_9/TwoThreadExample.java
@@ -46,6 +50,8 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/WhileTasks.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/BotanicalGarden/BotanicalGarden.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/ArrayDequeTask.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Validator/InvalidUserException.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Entity/EntityManager.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Pet/Dog.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_11/DebagTask10.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/SwitchTasks.java
@@ -70,9 +76,11 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Aquarium/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/LinkedHashSetTask.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task3.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/StudentGrad/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_2/StudentGroup.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_3/LibraryTest.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task17.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/StudentGrad/GradeService.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_2/Laptop.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_8/Task4.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_7/AgeValidator.java
@@ -90,6 +98,8 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_9/VolatileExample.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/DoWhileTasks.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Zoo/Elephant.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Validator/UserValidator.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Validator/User.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Museum/Sculpture.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/BreakContinueTasks.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_9/SynchronizedExample.java
@@ -108,6 +118,7 @@
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_7/Task2.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_6/PriorityQueueTask.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_4/ForTasks.java
+/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_12/Entity/Main.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Aquarium/Aquarium.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_3/University.java
 /Users/ruslan/Desktop/Homework/java_for_testers/express-java1/src/main/java/practice_5/Attraction/Carousel.java

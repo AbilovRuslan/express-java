@@ -4,18 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add hw10">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_11/DebagTask9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice_10/PhoneUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice_10/PhoneUtilsTest.java" afterDir="false" />
+    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add hw11">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Entity/EntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Entity/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/StudentGrad/GradeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/StudentGrad/InvalidGradeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/StudentGrad/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/StudentGrad/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Validator/InvalidUserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Validator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Validator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Validator/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/EntityManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/StudentGrad/GradeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/Validator/UserValidatorEdgeCasesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/Validator/UserValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsSecondTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.EmailUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MathUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyNumberUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyStringReverseTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.PhoneUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.StringUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.YearUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsSecondTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.EmailUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MathUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyNumberUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyStringReverseTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.PhoneUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.StringUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.YearUtilsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice_10/EmailUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice_10/EmailUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +54,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,6 +73,9 @@
     &quot;accountId&quot;: &quot;f9e9aab1-a60a-4eb1-b0c9-166390147eab&quot;
   }
 }</component>
+  <component name="JvmLoggingSettingsStorage">
+    <option name="loggerId" value="Slf4j" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -61,6 +93,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgeValidator.executor": "Run",
     "Application.DebagTask1.executor": "Run",
     "Application.DebagTask10.executor": "Run",
     "Application.DebagTask2.executor": "Run",
@@ -72,107 +105,171 @@
     "Application.DebagTask8.executor": "Run",
     "Application.DebagTask9.executor": "Run",
     "Application.DebugTask2.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.VolatileExample.executor": "Run",
+    "Application.practice_12.Entity.Main.executor": "Run",
+    "Application.practice_12.StudentGrad.Main.executor": "Run",
+    "Application.practice_12.Validator.Main.executor": "Run",
     "JUnit.ArrayUtilsSecondTest.executor": "Run",
     "JUnit.ArrayUtilsSecondTest.testEmptyArray.executor": "Run",
     "JUnit.ArrayUtilsSecondTest.testSingleElement.executor": "Run",
     "JUnit.ArrayUtilsTest.executor": "Run",
     "JUnit.EmailUtilsTest.executor": "Run",
+    "JUnit.EmailUtilsTest.testEmptyEmail.executor": "Run",
+    "JUnit.EmailUtilsTest.testNullEmail.executor": "Run",
+    "JUnit.EntityManagerTest.add.executor": "Run",
+    "JUnit.EntityManagerTest.addGetItems.executor": "Run",
+    "JUnit.EntityManagerTest.executor": "Run",
+    "JUnit.EntityManagerTest.filterByAge.executor": "Run",
+    "JUnit.EntityManagerTest.remove.executor": "Run",
+    "JUnit.EntityManagerTest.testEqualsAndHashCode.executor": "Run",
+    "JUnit.GradeServiceTest.executor": "Run",
+    "JUnit.GradeServiceTest.testAddInvalidGrade.executor": "Run",
     "JUnit.MathUtilsTest.executor": "Run",
     "JUnit.MathUtilsTest.testFactorialNagative.executor": "Run",
     "JUnit.MyNumberUtilsTest.executor": "Run",
+    "JUnit.MyStringUtilsList.executor": "Run",
     "JUnit.PhoneUtilsTest.executor": "Run",
     "JUnit.StringUtilsTest.executor": "Run",
     "JUnit.StringUtilsTest.testNullString.executor": "Run",
     "JUnit.StringUtilsTest.testSentenceWithExtraSpaces.executor": "Run",
+    "JUnit.UserValidatorEdgeCasesTest.emailWithoutDotShouldThrow.executor": "Run",
+    "JUnit.UserValidatorEdgeCasesTest.executor": "Run",
+    "JUnit.UserValidatorTest (1).executor": "Run",
+    "JUnit.UserValidatorTest.executor": "Run",
+    "JUnit.UserValidatorTest.testValidate_ValidUser_NoExceptionThrown.executor": "Run",
     "JUnit.YearUtilsTest.executor": "Run",
     "JUnit.YearUtilsTest.testLeapYears.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DebagTask10">
-    <configuration name="DebagTask10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask10" />
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="/private/var/folders/p8/4x9b6fmj4r9763ssq1d2wwvh0000gn/T/qodana_output/qodana.sarif.json" />
+        <option name="reportGuid" value="dd406217-9a89-43cf-ac57-c74faa961d5e" />
+        <option name="reportName" value="express-java1/qodana/2025-10-07" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/p8/4x9b6fmj4r9763ssq1d2wwvh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="dd406217-9a89-43cf-ac57-c74faa961d5e" reportId="express-java1/qodana/2025-10-07" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice_12.Validator" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="practice_12.StudentGrad" />
+      <recent name="practice_12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayUtilsSecondTest">
+    <configuration name="ArrayUtilsSecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_11.*" />
+          <option name="PATTERN" value="practice_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="practice_10" />
+      <option name="MAIN_CLASS_NAME" value="practice_10.ArrayUtilsSecondTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebagTask6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask6" />
+    <configuration name="EmailUtilsTest.testEmptyEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_11.*" />
+          <option name="PATTERN" value="practice_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="practice_10" />
+      <option name="MAIN_CLASS_NAME" value="practice_10.EmailUtilsTest" />
+      <option name="METHOD_NAME" value="testEmptyEmail" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebagTask7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask7" />
+    <configuration name="EmailUtilsTest.testNullEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_11.*" />
+          <option name="PATTERN" value="practice_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="practice_10" />
+      <option name="MAIN_CLASS_NAME" value="practice_10.EmailUtilsTest" />
+      <option name="METHOD_NAME" value="testNullEmail" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebagTask8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask8" />
+    <configuration name="MyNumberUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_11.*" />
+          <option name="PATTERN" value="practice_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="practice_10" />
+      <option name="MAIN_CLASS_NAME" value="practice_10.MyNumberUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebagTask9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_11.DebagTask9" />
+    <configuration name="MyStringUtilsList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_11.*" />
+          <option name="PATTERN" value="practice_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="practice_10" />
+      <option name="MAIN_CLASS_NAME" value="practice_10.MyStringUtilsList" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DebagTask10" />
-        <item itemvalue="Application.DebagTask9" />
-        <item itemvalue="Application.DebagTask8" />
-        <item itemvalue="Application.DebagTask7" />
-        <item itemvalue="Application.DebagTask6" />
+        <item itemvalue="JUnit.ArrayUtilsSecondTest" />
+        <item itemvalue="JUnit.EmailUtilsTest.testEmptyEmail" />
+        <item itemvalue="JUnit.EmailUtilsTest.testNullEmail" />
+        <item itemvalue="JUnit.MyNumberUtilsTest" />
+        <item itemvalue="JUnit.MyStringUtilsList" />
       </list>
     </recent_temporary>
   </component>
@@ -192,11 +289,20 @@
       <option name="project" value="LOCAL" />
       <updated>1759325227103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hw11">
+      <option name="closed" value="true" />
+      <created>1759433245569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759433245569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hw10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw10" />
+    <MESSAGE value="add hw11" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw11" />
   </component>
 </project>
