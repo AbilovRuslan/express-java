@@ -3,6 +3,7 @@ practice_9/SingleThreadExample.class
 practice_5/Pet/Pet.class
 practice_5/BotanicalGarden/Main.class
 practice_7/AgeValidator.class
+practice_12/TaskManager/Task.class
 practice_3/GameSettings.class
 practice_9/SynchronizedExample.class
 practice_5/Aquarium/Aquarium.class
@@ -20,8 +21,10 @@ practice_6/TreeMapTask.class
 practice_11/DebagTask5$Person.class
 practice_8/Task11.class
 practice_7/EmailValidator.class
+practice_12/Warehouse/Main.class
 practice_7/AgeValidator$InvalidAgeException.class
 practice_4/ForTasks.class
+practice_12/Warehouse/InventoryService.class
 practice_3/MathConstants.class
 practice_7/Pair.class
 practice_2/Laptop.class
@@ -46,7 +49,9 @@ practice_6/HashSetTask.class
 practice_11/DebagTask5.class
 practice_5/Attraction/Attraction.class
 practice_8/Task15.class
+practice_12/Warehouse/Product.class
 practice_5/Farm/Farm.class
+practice_12/MovieRatingSystem/MovieService.class
 practice_8/Task4.class
 practice_6/ArrayDequeTask.class
 practice_9/TwoThreadExample$1.class
@@ -54,6 +59,7 @@ practice_9/Counter.class
 practice_5/Museum/Main.class
 practice_5/Aquarium/SeaCreature.class
 practice_12/StudentGrad/InvalidGradeException.class
+practice_12/TaskManager/Main.class
 practice_7/Generic2.class
 practice_8/MathOperation.class
 practice_11/DebagTask6.class
@@ -63,6 +69,7 @@ practice_12/Validator/User.class
 practice_12/Entity/Main.class
 practice_9/VolatileExample.class
 practice_8/Task5.class
+practice_12/Warehouse/OutOfStockException.class
 practice_2/Circle.class
 practice_8/Task2$1.class
 practice_5/Zoo/Elephant.class
@@ -70,8 +77,10 @@ practice_2/Main.class
 practice_2/Rectangle.class
 practice_5/Museum/Exhibit.class
 practice_3/Library.class
+practice_12/MovieRatingSystem/Rating.class
 practice_3/Company.class
 practice_11/DebagTask7.class
+practice_12/Warehouse/InventoryServiceImpl.class
 practice_5/Pet/Dog.class
 practice_12/Entity/User.class
 practice_5/Pet/Cat.class
@@ -79,8 +88,10 @@ practice_8/Task10.class
 practice_7/Box.class
 practice_5/Zoo/Animal.class
 practice_3/Main.class
+practice_12/TaskManager/TaskService.class
 practice_5/Farm/Main.class
 practice_6/LinkedHashSetTask.class
+practice_12/MovieRatingSystem/Movie.class
 practice_5/Dish/Dish.class
 practice_4/WhileTasks.class
 practice_4/IfElseTasks.class
@@ -111,13 +122,17 @@ practice_12/StudentGrad/Main.class
 practice_8/Task1.class
 practice_5/Aquarium/Shark.class
 practice_8/Task8.class
+practice_12/MovieRatingSystem/Main.class
+practice_12/TaskManager/Priority.class
 practice_7/Task1.class
 practice_11/DebagTask9.class
+practice_12/TaskManager/Status.class
 practice_12/Entity/EntityManager.class
 practice_5/Farm/Chicken.class
 practice_2/Product.class
 practice_1/MathOperations1.class
 practice_6/HashSetTask1.class
+practice_12/TaskManager/TaskServiceImpl.class
 practice_8/Task12.class
 practice_4/DoWhileTasks.class
 practice_6/LinkedHashMapTask1.class
