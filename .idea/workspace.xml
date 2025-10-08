@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add hw12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Tetst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/Tets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +364,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759951826410</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951997998</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951997998</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759952042638</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1759952042638</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
