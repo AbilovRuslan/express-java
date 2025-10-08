@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add fix hw10">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/MovieRatingSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/MovieRatingSystem/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/MovieRatingSystem/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/MovieRatingSystem/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/TaskManager/TaskServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Warehouse/InventoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Warehouse/InventoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Warehouse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Warehouse/OutOfStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_12/Warehouse/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/MovieRatingSystem/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/MovieRatingSystem/MovieServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/MovieRatingSystem/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/MovieRatingSystem/RatingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/TaskManager/PriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/TaskManager/StatusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/TaskManager/TaskServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/TaskManager/TaskTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice_12/WarehouseTest/InventoryServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice_10/ArrayUtilsSecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice_10/ArrayUtilsSecondTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsSecondTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsSecondTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.EmailUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.EmailUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MathUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MathUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyNumberUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyNumberUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyStringReverseTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyStringReverseTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.PhoneUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.PhoneUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.StringUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.StringUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.YearUtilsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.YearUtilsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsSecondTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsSecondTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.EmailUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.EmailUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MathUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MathUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyNumberUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyNumberUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyStringReverseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyStringReverseTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.PhoneUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.PhoneUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.StringUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.StringUtilsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.YearUtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/practice_10.YearUtilsTest.txt" afterDir="false" />
-    </list>
+    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="add hw 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -331,13 +282,72 @@
       <option name="project" value="LOCAL" />
       <updated>1759832493045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add fix hw10">
+      <option name="closed" value="true" />
+      <created>1759951289733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951289733</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951350502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951350502</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951354810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951354810</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951402611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951402611</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951509703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951509703</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add hw12">
+      <option name="closed" value="true" />
+      <created>1759951548649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951548649</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add hw 12">
+      <option name="closed" value="true" />
+      <created>1759951621131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759951621131</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hw10" />
     <MESSAGE value="add hw11" />
     <MESSAGE value="add fix hw10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix hw10" />
+    <MESSAGE value="add hw12" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="add hw 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw 12" />
   </component>
 </project>
