@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: practice_12.EntityManagerTest
--------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s -- in practice_12.EntityManagerTest

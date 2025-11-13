@@ -4,21 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="">
+    <list default="true" id="78318167-df82-4157-8ac1-54c823f52d74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Calculat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task2kiss/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task3yagni/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task4srp/EmailConfirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task4srp/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task4srp/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task5ocp/Bitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task5ocp/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task5ocp/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task5ocp/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task7isp/Eat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task7isp/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task7isp/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task7isp/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/NotificationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_6/CollectionArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_6/CollectionArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsSecondTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.ArrayUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.EmailUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MathUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyNumberUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.MyStringReverseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.PhoneUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.StringUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_10.YearUtilsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.EntityManagerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.MovieRatingSystem.MainTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.MovieRatingSystem.MovieServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.MovieRatingSystem.MovieTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.MovieRatingSystem.RatingTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.StudentGrad.GradeServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.TaskManager.PriorityTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.TaskManager.StatusTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.TaskManager.TaskServiceImplTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.TaskManager.TaskServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.TaskManager.TaskTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.Validator.UserValidatorEdgeCasesTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.Validator.UserValidatorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-practice_12.WarehouseTest.InventoryServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsSecondTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.ArrayUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.EmailUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MathUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyNumberUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.MyStringReverseTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.PhoneUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.StringUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_10.YearUtilsTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.EntityManagerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.MovieRatingSystem.MainTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.MovieRatingSystem.MovieServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.MovieRatingSystem.MovieTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.MovieRatingSystem.RatingTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.StudentGrad.GradeServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.TaskManager.PriorityTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.TaskManager.StatusTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.TaskManager.TaskServiceImplTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.TaskManager.TaskServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.TaskManager.TaskTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.Validator.UserValidatorEdgeCasesTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.Validator.UserValidatorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/practice_12.WarehouseTest.InventoryServiceTest.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,20 +109,11 @@
     &quot;accountId&quot;: &quot;f9e9aab1-a60a-4eb1-b0c9-166390147eab&quot;
   }
 }</component>
-  <component name="JvmLoggingSettingsStorage">
-    <option name="loggerId" value="Slf4j" />
-  </component>
-  <component name="MavenRunner">
-    <option name="delegateBuildToMaven" value="true" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="33SnZtAD45opsWDSUyIclBI6oqi" />
+  <component name="ProjectId" id="33xfGXBkTpxVpQHGj07Teask3JI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -59,337 +121,212 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AgeValidator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebagTask9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DebugTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VolatileExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_12.Entity.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_12.StudentGrad.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_12.TaskManager.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_12.Validator.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayUtilsSecondTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayUtilsSecondTest.testEmptyArray.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayUtilsSecondTest.testSingleElement.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EmailUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EmailUtilsTest.testEmptyEmail.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EmailUtilsTest.testNullEmail.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.add.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.addGetItems.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.filterByAge.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.remove.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EntityManagerTest.testEqualsAndHashCode.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.GradeServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.GradeServiceTest.testAddInvalidGrade.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryServiceTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryServiceTest.testOutOfStockException (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.InventoryServiceTest.testOutOfStockException.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MathUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MathUtilsTest.testFactorialNagative.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MovieServiceTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MovieServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MovieTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MyNumberUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MyStringUtilsList.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PhoneUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PriorityTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RatingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StatusTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StringUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StringUtilsTest.testNullString.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StringUtilsTest.testSentenceWithExtraSpaces.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskServiceImplTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.testTaskCreation.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserValidatorEdgeCasesTest.emailWithoutDotShouldThrow.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserValidatorEdgeCasesTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserValidatorTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserValidatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserValidatorTest.testValidate_ValidUser_NoExceptionThrown.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WarehouseTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WarehouseTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.YearUtilsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.YearUtilsTest.testLeapYears.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.my-project [install].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.5697259&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Accounts.Book.executor": "Run",
+    "Application.Adult.executor": "Run",
+    "Application.Airplane.executor": "Run",
+    "Application.AppVersion.executor": "Run",
+    "Application.ArrayUtils.executor": "Run",
+    "Application.Athlete.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.Bicycle.executor": "Run",
+    "Application.Book (1).executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Box.executor": "Run",
+    "Application.Camera.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Comparison.executor": "Run",
+    "Application.Config.executor": "Run",
+    "Application.Country.executor": "Run",
+    "Application.Course.executor": "Run",
+    "Application.DivisorCounter.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Email.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Even.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FinalCountdown.executor": "Run",
+    "Application.Food.executor": "Run",
+    "Application.Fridge.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.GameScore (1).executor": "Run",
+    "Application.GameScore.executor": "Run",
+    "Application.House.executor": "Run",
+    "Application.Laptop.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathCons.executor": "Run",
+    "Application.MathTest.executor": "Run",
+    "Application.MathUtils (1).executor": "Run",
+    "Application.MathUtils.executor": "Run",
+    "Application.MaxInSeries.executor": "Run",
+    "Application.MaxOfThree.executor": "Run",
+    "Application.Movie.executor": "Run",
+    "Application.MultiNumAndScan.executor": "Run",
+    "Application.Multiplicity.executor": "Run",
+    "Application.MultiplyNumbers.executor": "Run",
+    "Application.NumberSignChecker (1).executor": "Run",
+    "Application.NumberSignChecker.executor": "Run",
+    "Application.NumberStats.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.PasswordCheck.executor": "Run",
+    "Application.Pen.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Phone.executor": "Run",
+    "Application.Planets.executor": "Run",
+    "Application.Polidorm.executor": "Run",
+    "Application.PrimeChecker.executor": "Run",
+    "Application.PrintEven (1).executor": "Run",
+    "Application.PrintEven.executor": "Run",
+    "Application.Printer.executor": "Run",
+    "Application.Product.executor": "Run",
+    "Application.Raiting.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.Session.executor": "Run",
+    "Application.ShopItem.executor": "Run",
+    "Application.SimpleDigits.executor": "Run",
+    "Application.Song.executor": "Run",
+    "Application.StepCounter.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentExam.executor": "Run",
+    "Application.Subscription.executor": "Run",
+    "Application.SumDigits.executor": "Run",
+    "Application.TV.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.Thermometer.executor": "Run",
+    "Application.Token.executor": "Run",
+    "Application.User.executor": "Run",
+    "Application.Wallet.executor": "Run",
+    "Application.WaterTank.executor": "Run",
+    "Application.WeatherForecast.executor": "Run",
+    "Application.WordText.executor": "Run",
+    "Application.master.basics.Cinema.Main.executor": "Run",
+    "Application.master.basics.Gym.Main.executor": "Run",
+    "Application.master.basics.Journal.Main.executor": "Run",
+    "Application.master.basics.OnlineShop.Main.executor": "Run",
+    "Application.master.basics.Store.Main.executor": "Run",
+    "Application.master.basics.Websait.Main.executor": "Run",
+    "Application.master.basics.Zoo.Main.executor": "Run",
+    "Application.practice_13.task1dry.Main.executor": "Run",
+    "Application.practice_13.task6lsp.Main.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Maven.Car.executor": "Run",
+    "Maven.my-project [install,--non-recursive].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ruslan/Desktop/Homework/java_for_testers/express-java1/pom.xml",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
-}</component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="/private/var/folders/p8/4x9b6fmj4r9763ssq1d2wwvh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="dd406217-9a89-43cf-ac57-c74faa961d5e" reportId="express-java1/qodana/2025-10-07" />
-    </option>
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="practice_12.Validator" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="practice_12.TaskManager" />
-      <recent name="practice_12.MovieRatingSystem" />
-      <recent name="practice_12.StudentGrad" />
-      <recent name="practice_12" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="practice_12.TaskManager" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.PriorityTest">
-    <configuration name="PriorityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Application.practice_13.task6lsp.Main">
+    <configuration name="master.basics.OnlineShop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master.basics.OnlineShop.Main" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_12.TaskManager.*" />
+          <option name="PATTERN" value="master.basics.OnlineShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice_12.TaskManager" />
-      <option name="MAIN_CLASS_NAME" value="practice_12.TaskManager.PriorityTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="master.basics.Zoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master.basics.Zoo.Main" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_12.TaskManager.*" />
+          <option name="PATTERN" value="master.basics.Zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice_12.TaskManager" />
-      <option name="MAIN_CLASS_NAME" value="practice_12.TaskManager.StatusTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_13.task1dry.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_13.task1dry.Main" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_12.TaskManager.*" />
+          <option name="PATTERN" value="practice_13.task1dry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice_12.TaskManager" />
-      <option name="MAIN_CLASS_NAME" value="practice_12.TaskManager.TaskServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_13.task6lsp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_13.task6lsp.Main" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_12.TaskManager.*" />
+          <option name="PATTERN" value="practice_13.task6lsp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice_12.TaskManager" />
-      <option name="MAIN_CLASS_NAME" value="practice_12.TaskManager.TaskTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest.testTaskCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="master.basics.Algoritm.task1" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_12.TaskManager.*" />
+          <option name="PATTERN" value="master.basics.Algoritm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice_12.TaskManager" />
-      <option name="MAIN_CLASS_NAME" value="practice_12.TaskManager.TaskTest" />
-      <option name="METHOD_NAME" value="testTaskCreation" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="express-java1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="express-java1" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PriorityTest" />
-        <item itemvalue="JUnit.StatusTest" />
-        <item itemvalue="JUnit.TaskServiceImplTest" />
-        <item itemvalue="JUnit.TaskTest.testTaskCreation" />
-        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="Application.practice_13.task6lsp.Main" />
+        <item itemvalue="Application.practice_13.task1dry.Main" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.master.basics.OnlineShop.Main" />
+        <item itemvalue="Application.master.basics.Zoo.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="add035c5-ad58-4b9b-b47b-0af895c72a1e" name="Changes" comment="" />
-      <created>1759319400037</created>
+      <changelist id="78318167-df82-4157-8ac1-54c823f52d74" name="Changes" comment="" />
+      <created>1760263549073</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759319400037</updated>
+      <updated>1760263549073</updated>
     </task>
-    <task id="LOCAL-00001" summary="add hw10">
-      <option name="closed" value="true" />
-      <created>1759325227103</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1759325227103</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add hw11">
-      <option name="closed" value="true" />
-      <created>1759433245569</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1759433245569</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add fix hw10">
-      <option name="closed" value="true" />
-      <created>1759832493045</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1759832493045</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add fix hw10">
-      <option name="closed" value="true" />
-      <created>1759951289733</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951289733</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951350502</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951350502</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951354810</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951354810</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951402611</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951402611</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951509703</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951509703</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951548649</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951548649</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add hw 12">
-      <option name="closed" value="true" />
-      <created>1759951621131</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951621131</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951745876</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951745876</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951793167</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951793167</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951826410</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951826410</updated>
-    </task>
-    <task id="LOCAL-00014" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759951997998</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1759951997998</updated>
-    </task>
-    <task id="LOCAL-00015" summary="add hw12">
-      <option name="closed" value="true" />
-      <created>1759952042638</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1759952042638</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add hw10" />
-    <MESSAGE value="add hw11" />
-    <MESSAGE value="add fix hw10" />
-    <MESSAGE value="add hw 12" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <MESSAGE value="add hw12" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw12" />
   </component>
 </project>
