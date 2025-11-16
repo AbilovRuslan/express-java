@@ -4,12 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78318167-df82-4157-8ac1-54c823f52d74" name="Changes" comment="add HW 13">
+    <list default="true" id="78318167-df82-4157-8ac1-54c823f52d74" name="Changes" comment="add HW 13 fix">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task1/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task10/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task10/Kilometers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task10/Miles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task10/MilesToKilometersAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task11/DoorClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task11/DoorFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task11/DoorLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task11/DoorOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task2/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/BicycleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task3/TransportFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/BowFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/GunFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/SwordFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task4/WeaponFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ClassicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ClassicFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ClassicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ModernChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ModernFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/ModernTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task5/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/MacMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/MacWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/WindowsMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task6/WindowsWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task7/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task7/OrderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task7/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task8/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task8/CharacterBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task8/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task9/DOCProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task9/DocumentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task9/DocumentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_14/task9/PDFProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Calculat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Calculat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_13/task6lsp/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/EmailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_13/task8dip/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_13/task1dry/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +202,8 @@
     &quot;Application.master.basics.Zoo.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.practice_13.task1dry.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.practice_13.task6lsp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_14.task1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_14.task2.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.task1.executor&quot;: &quot;Run&quot;,
     &quot;Maven.Car.executor&quot;: &quot;Run&quot;,
     &quot;Maven.my-project [install,--non-recursive].executor&quot;: &quot;Run&quot;,
@@ -162,7 +220,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practice_13.task6lsp.Main">
+  <component name="RunManager" selected="Application.practice_14.task1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice_13.task6lsp.Main" />
       <module name="my-project" />
@@ -176,38 +234,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="master.basics.OnlineShop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master.basics.OnlineShop.Main" />
-      <module name="my-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="master.basics.OnlineShop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="master.basics.Zoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="master.basics.Zoo.Main" />
-      <module name="my-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="master.basics.Zoo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="practice_13.task1dry.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice_13.task1dry.Main" />
       <module name="my-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice_13.task1dry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_14.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_14.task1.Main" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_14.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_14.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_14.task2.Main" />
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_14.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +299,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice_13.task6lsp.Main" />
+        <item itemvalue="Application.practice_14.task1.Main" />
+        <item itemvalue="Application.practice_14.task2.Main" />
         <item itemvalue="Application.practice_13.task1dry.Main" />
         <item itemvalue="Application.task1" />
-        <item itemvalue="Application.master.basics.OnlineShop.Main" />
-        <item itemvalue="Application.master.basics.Zoo.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -265,11 +322,20 @@
       <option name="project" value="LOCAL" />
       <updated>1763037516902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add HW 13 fix">
+      <option name="closed" value="true" />
+      <created>1763246020308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763246020308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add HW 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="add HW 13" />
+    <MESSAGE value="add HW 13 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HW 13 fix" />
   </component>
 </project>
