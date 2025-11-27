@@ -2,34 +2,36 @@ package practice_15.task3;
 
 public class BookProxy {
     private Book realBook;
-    private BookBuilder builder;
-    private boolean isLoaded = false;
+    private final BookBuilder builder;
 
-    public BookProxy(Book realBook) {
-        this.realBook = realBook;
+    public BookProxy(BookBuilder builder) {
+        if (builder == null) {
+            throw new IllegalArgumentException("Builder must not be null");
+        }
         this.builder = builder;
     }
 
-    public String getContent() {
-        if (!isLoaded) {
-            System.out.println("First access - loading book content lazily...");
-            if (realBook == null && builder != null) {
-                realBook = builder.build();
-            }
-            isLoaded = true;
+    private Book getRealBook() {
+        if (realBook == null) {
+            System.out.println("Lazy loading book...");
+            realBook = builder.build();
         }
-        return realBook.getContent();
+        return realBook;
+    }
+
+    public String getContent() {
+        return getRealBook().getContent();
     }
 
     public String getTitle() {
-        return realBook.getTitle();
+        return getRealBook().getTitle();
     }
 
     public String getAuthor() {
-        return realBook.getAuthor();
+        return getRealBook().getAuthor();
     }
 
     public String getDescription() {
-        return realBook.getDescription();
+        return getRealBook().getDescription();
     }
 }

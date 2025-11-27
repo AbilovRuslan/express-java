@@ -2,23 +2,21 @@ package practice_15.task3;
 
 public class Main {
     public static void main(String[] args) {
-        // Инициализация BookBuilder для создания книги
-        BookBuilder builder = new BookBuilder();
-        Book book = builder.setTitle("War and Peace")
+        BookBuilder builder = new BookBuilder()
+                .setTitle("War and Peace")
                 .setAuthor("Leo Tolstoy")
                 .setDescription("A historical novel about the Napoleonic Wars.")
-                .setContent("Chapter 1: 'Well, Prince, so Genoa and Lucca...'")
-                .build();
+                .setContent("Chapter 1: ...");
 
-        BookProxy proxy = new BookProxy(book);
+        BookProxy proxy = new BookProxy(builder);
 
-        System.out.println("Book title: " + proxy.getTitle());
-        System.out.println("Book author: " + proxy.getAuthor());
+        System.out.println("Before content access");
 
-        String content = proxy.getContent();
-        System.out.println("Content of the book: " + content);
+        System.out.println(proxy.getTitle());
+        System.out.println(proxy.getAuthor());
 
-        String contentAgain = proxy.getContent();
-        System.out.println("Content again: " + contentAgain);
+        System.out.println("Loading content...");
+        System.out.println(proxy.getContent());
     }
+
 }
